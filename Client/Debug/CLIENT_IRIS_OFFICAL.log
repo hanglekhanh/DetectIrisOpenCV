@@ -1,0 +1,49 @@
+﻿Build started 28/05/2016 10:45:10 CH.
+     1>Project "D:\KhoaLuan\MaNguon\Client\CLIENT_IRIS_OFFICAL.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\CLIENT_IRIS_OFFICAL.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\CLIENT_IRIS_OFFICAL.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt CLIENT_IRIS_OFFICALDlg.cpp
+         CLIENT_IRIS_OFFICALDlg.cpp
+     1>d:\khoaluan\manguon\client\client_iris_officaldlg.cpp(271): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\khoaluan\manguon\client\client_iris_officaldlg.cpp(288): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\khoaluan\manguon\client\client_iris_officaldlg.cpp(358): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\khoaluan\manguon\client\client_iris_officaldlg.cpp(360): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\khoaluan\manguon\client\client_iris_officaldlg.cpp(369): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\khoaluan\manguon\client\client_iris_officaldlg.cpp(378): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>d:\khoaluan\manguon\client\client_iris_officaldlg.cpp(392): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\khoaluan\manguon\client\client_iris_officaldlg.cpp(393): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\khoaluan\manguon\client\client_iris_officaldlg.cpp(395): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\khoaluan\manguon\client\client_iris_officaldlg.cpp(395): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\khoaluan\manguon\client\client_iris_officaldlg.cpp(423): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\khoaluan\manguon\client\client_iris_officaldlg.cpp(424): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\khoaluan\manguon\client\client_iris_officaldlg.cpp(426): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\khoaluan\manguon\client\client_iris_officaldlg.cpp(426): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\khoaluan\manguon\client\client_iris_officaldlg.cpp(443): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\khoaluan\manguon\client\client_iris_officaldlg.cpp(445): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\khoaluan\manguon\client\client_iris_officaldlg.cpp(520): warning C4018: '<' : signed/unsigned mismatch
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\KhoaLuan\MaNguon\Client\Debug\CLIENT_IRIS_OFFICAL.exe" /INCREMENTAL /NOLOGO opencv_core249d.lib opencv_imgproc249d.lib opencv_highgui249d.lib /MANIFEST /ManifestFile:"Debug\CLIENT_IRIS_OFFICAL.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\KhoaLuan\MaNguon\Client\Debug\CLIENT_IRIS_OFFICAL.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\KhoaLuan\MaNguon\Client\Debug\CLIENT_IRIS_OFFICAL.lib" /MACHINE:X86 Debug\CLIENT_IRIS_OFFICAL.res
+         Debug\CLIENT_IRIS_OFFICAL.exe.embed.manifest.res
+         Debug\CLIENT_IRIS_OFFICAL.obj
+         Debug\CLIENT_IRIS_OFFICALDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\CLIENT_IRIS_OFFICAL.exe.embed.manifest" /manifest Debug\CLIENT_IRIS_OFFICAL.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         CLIENT_IRIS_OFFICAL.vcxproj -> D:\KhoaLuan\MaNguon\Client\Debug\CLIENT_IRIS_OFFICAL.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\CLIENT_IRIS_OFFICAL.unsuccessfulbuild".
+         Touching "Debug\CLIENT_IRIS_OFFICAL.lastbuildstate".
+     1>Done Building Project "D:\KhoaLuan\MaNguon\Client\CLIENT_IRIS_OFFICAL.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.33

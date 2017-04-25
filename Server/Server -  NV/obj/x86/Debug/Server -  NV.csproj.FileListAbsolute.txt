@@ -1,0 +1,54 @@
+C:\Users\KhanhHang\Desktop\LTM\Server -  NV\Server -  NV\bin\Debug\Server -  NV.exe
+C:\Users\KhanhHang\Desktop\LTM\Server -  NV\Server -  NV\bin\Debug\Server -  NV.pdb
+C:\Users\KhanhHang\Desktop\LTM\Server -  NV\Server -  NV\obj\x86\Debug\Server____NV.Server.resources
+C:\Users\KhanhHang\Desktop\LTM\Server -  NV\Server -  NV\obj\x86\Debug\Server____NV.Properties.Resources.resources
+C:\Users\KhanhHang\Desktop\LTM\Server -  NV\Server -  NV\obj\x86\Debug\Server -  NV.csproj.GenerateResource.Cache
+C:\Users\KhanhHang\Desktop\LTM\Server -  NV\Server -  NV\obj\x86\Debug\Server -  NV.exe
+C:\Users\KhanhHang\Desktop\LTM\Server -  NV\Server -  NV\obj\x86\Debug\Server -  NV.pdb
+C:\Users\KhanhHang\Desktop\LTM\Server -  NV\Server -  NV\obj\x86\Debug\Server -  NV.csprojResolveAssemblyReference.cache
+C:\Users\KhanhHang\Desktop\LTM\Server -  NV\Server -  NV\bin\Debug\Data-NV.dll
+C:\Users\KhanhHang\Desktop\LTM\Server -  NV\Server -  NV\bin\Debug\Data-NV.pdb
+D:\LTM\Server -  NV\Server -  NV\obj\x86\Debug\Server -  NV.exe
+D:\LTM\Server -  NV\Server -  NV\obj\x86\Debug\Server -  NV.pdb
+D:\LTM\Server -  NV\Server -  NV\bin\Debug\Server -  NV.exe
+D:\LTM\Server -  NV\Server -  NV\bin\Debug\Server -  NV.pdb
+D:\LTM\Server -  NV\Server -  NV\bin\Debug\Data-NV.dll
+D:\LTM\Server -  NV\Server -  NV\bin\Debug\Data-NV.pdb
+D:\LTM\Server -  NV\Server -  NV\obj\x86\Debug\Server -  NV.csprojResolveAssemblyReference.cache
+D:\LTM\Server -  NV\Server -  NV\obj\x86\Debug\Server____NV.Properties.Resources.resources
+D:\LTM\Server -  NV\Server -  NV\obj\x86\Debug\Server____NV.Server.resources
+D:\LTM\Server -  NV\Server -  NV\obj\x86\Debug\Server -  NV.csproj.GenerateResource.Cache
+C:\Users\KhanhHang\Desktop\NCKH\Server -  NV\Server -  NV\obj\x86\Debug\Server -  NV.exe
+C:\Users\KhanhHang\Desktop\NCKH\Server -  NV\Server -  NV\obj\x86\Debug\Server -  NV.pdb
+C:\Users\KhanhHang\Desktop\NCKH\Server -  NV\Server -  NV\bin\Debug\Server -  NV.exe
+C:\Users\KhanhHang\Desktop\NCKH\Server -  NV\Server -  NV\bin\Debug\Server -  NV.pdb
+C:\Users\KhanhHang\Desktop\NCKH\Server -  NV\Server -  NV\bin\Debug\Data-NV.dll
+C:\Users\KhanhHang\Desktop\NCKH\Server -  NV\Server -  NV\bin\Debug\Data-NV.pdb
+C:\Users\KhanhHang\Desktop\NCKH\Server -  NV\Server -  NV\obj\x86\Debug\Server -  NV.csprojResolveAssemblyReference.cache
+C:\Users\KhanhHang\Desktop\NCKH\Server -  NV\Server -  NV\obj\x86\Debug\Server____NV.Properties.Resources.resources
+C:\Users\KhanhHang\Desktop\NCKH\Server -  NV\Server -  NV\obj\x86\Debug\Server____NV.Server.resources
+C:\Users\KhanhHang\Desktop\NCKH\Server -  NV\Server -  NV\obj\x86\Debug\Server -  NV.csproj.GenerateResource.Cache
+C:\Users\KhanhHang\Desktop\NCKH\Server -  NV\Server -  NV\bin\Debug\Server -  NV.exe.config
+C:\Users\KhanhHang\Desktop\NghienCuuKhoaHoc\MaNguon\Server\Server -  NV\bin\Debug\Server -  NV.exe.config
+C:\Users\KhanhHang\Desktop\NghienCuuKhoaHoc\MaNguon\Server\Server -  NV\obj\x86\Debug\Server -  NV.exe
+C:\Users\KhanhHang\Desktop\NghienCuuKhoaHoc\MaNguon\Server\Server -  NV\obj\x86\Debug\Server -  NV.pdb
+C:\Users\KhanhHang\Desktop\NghienCuuKhoaHoc\MaNguon\Server\Server -  NV\bin\Debug\Server -  NV.exe
+C:\Users\KhanhHang\Desktop\NghienCuuKhoaHoc\MaNguon\Server\Server -  NV\bin\Debug\Server -  NV.pdb
+C:\Users\KhanhHang\Desktop\NghienCuuKhoaHoc\MaNguon\Server\Server -  NV\bin\Debug\Data-NV.dll
+C:\Users\KhanhHang\Desktop\NghienCuuKhoaHoc\MaNguon\Server\Server -  NV\bin\Debug\Data-NV.pdb
+C:\Users\KhanhHang\Desktop\NghienCuuKhoaHoc\MaNguon\Server\Server -  NV\obj\x86\Debug\Server -  NV.csprojResolveAssemblyReference.cache
+C:\Users\KhanhHang\Desktop\NghienCuuKhoaHoc\MaNguon\Server\Server -  NV\obj\x86\Debug\Server____NV.Properties.Resources.resources
+C:\Users\KhanhHang\Desktop\NghienCuuKhoaHoc\MaNguon\Server\Server -  NV\obj\x86\Debug\Server____NV.Server.resources
+C:\Users\KhanhHang\Desktop\NghienCuuKhoaHoc\MaNguon\Server\Server -  NV\obj\x86\Debug\Server -  NV.csproj.GenerateResource.Cache
+C:\Users\KhanhHang\Desktop\KhoaLuan\MaNguon\Server\Server -  NV\bin\Debug\Server -  NV.exe.config
+C:\Users\KhanhHang\Desktop\KhoaLuan\MaNguon\Server\Server -  NV\obj\x86\Debug\Server -  NV.exe
+C:\Users\KhanhHang\Desktop\KhoaLuan\MaNguon\Server\Server -  NV\obj\x86\Debug\Server -  NV.pdb
+C:\Users\KhanhHang\Desktop\KhoaLuan\MaNguon\Server\Server -  NV\obj\x86\Debug\Server -  NV.csprojResolveAssemblyReference.cache
+C:\Users\KhanhHang\Desktop\KhoaLuan\MaNguon\Server\Server -  NV\obj\x86\Debug\Server____NV.Properties.Resources.resources
+C:\Users\KhanhHang\Desktop\KhoaLuan\MaNguon\Server\Server -  NV\obj\x86\Debug\Server____NV.Server.resources
+C:\Users\KhanhHang\Desktop\KhoaLuan\MaNguon\Server\Server -  NV\obj\x86\Debug\Server -  NV.csproj.GenerateResource.Cache
+C:\Users\KhanhHang\Desktop\KhoaLuan\MaNguon\Server\Server -  NV\bin\Debug\Server -  NV.exe
+C:\Users\KhanhHang\Desktop\KhoaLuan\MaNguon\Server\Server -  NV\bin\Debug\Server -  NV.pdb
+D:\KhoaLuan\MaNguon\Server\Server -  NV\bin\Debug\Server -  NV.exe.config
+D:\KhoaLuan\MaNguon\Server\Server -  NV\obj\x86\Debug\Server -  NV.exe
+D:\KhoaLuan\MaNguon\Server\Server -  NV\obj\x86\Debug\Server -  NV.pdb
